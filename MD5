@@ -1,0 +1,9 @@
+06fdd4db1f6c58b25a818f2692c58cba *ChangeLog
+a5b5e8f757b9edd9501628d903720ed8 *DESCRIPTION
+4acb796b9b33ce788fe4411022d602f6 *NAMESPACE
+1b1d562d9e3ceb6112176efb727706e5 *R/cin.R
+aa7b17931fdb83fab426bc09636165cb *R/gammaHRF.R
+198e5f21a8b5dc9b7144312429cffc71 *R/intertest.R
+1d9fddbcd3f8164e8e838f5af8b22fa3 *R/truncSum.R
+8cce38b47c2d2118e90a436fe19a2227 *man/cin-internal.Rd
+71fddb33bd94c852d4d26776c795ef3f *man/cin.Rd
